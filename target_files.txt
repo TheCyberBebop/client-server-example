@@ -1,0 +1,6 @@
+/etc/passwd
+/etc/os-release
+/etc/hosts
+/etc/hostnames
+/etc/group
+/proc/modules
